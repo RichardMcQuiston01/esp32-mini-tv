@@ -1,4 +1,4 @@
-# Project Title
+# ESP32 Mini TV
 
 - Author: [Richard McQuiston](mailto:richard.mcquiston@gmail.com)
 - Website: https://richardmcquiston.com/
@@ -11,9 +11,16 @@
 
 ## Overview
 
+Display short clips of Christmas movie(s) on the display and output audio.  This will be housed in a DIY mini TV for use as part of a Christmas display.
+
 [Back to Top](#table-of-contents)
 
 ## Getting Started
+
+### Hardware
+
+- CrowPanel Advance 2.8”-HMI ESP32 AI Display 320x240 Artificial IPS Intelligent Touchscreen Support Meshtastic and Arduino/LVGL/Micropython [DIS01728A-DAC00102W]
+- ESP32-C6 Module [attached to ESP32 Display]
 
 ### Prerequisites
 
